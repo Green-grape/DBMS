@@ -19,3 +19,7 @@ Concurrency Implementation: strict-2PL & wait-for-graph [(project5)](https://git
 ## 3. Crach Recovery(Just Logic no implementation)
 
 ![crash_recovery](./imgs/crash_recovery.png)
+
+## 4. Detailed Report
+
+[(Final_Report)](https://github.com/Green-grape/DBMS/tree/master/final_report)
